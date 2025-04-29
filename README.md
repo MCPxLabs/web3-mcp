@@ -2,7 +2,6 @@
 
 A Model-Context-Protocol server for interacting with multiple blockchains including Solana, Ethereum, THORChain, XRP Ledger, TON (The Open Network), Cardano, and UTXO chains. This server provides simple RPC endpoints for common blockchain operations, allowing secure interactions with various blockchains through environment variables.
 
-<a href="https://glama.ai/mcp/servers/an8x6gmzdn"><img width="380" height="200" src="https://glama.ai/mcp/servers/an8x6gmzdn/badge" alt="Web3 Server MCP server" /></a>
 
 ## Features
 
@@ -88,7 +87,7 @@ Supported EVM Networks:
 
 1. Clone and install dependencies:
 ```bash
-git clone https://github.com/strangelove-ventures/web3-mcp.git
+git clone https://github.com/MCPxLabs/web3-mcp.git
 cd web3-mcp
 npm install
 ```
